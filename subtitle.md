@@ -189,6 +189,24 @@
 - 01:43
     + 也可以安全关闭窗口
 
+### demo
+> 追加 Slogan 为开始的结尾页
+
+- 含 Slogan 标题页:
+    + 注目分析结果视频
+
+从资源云盘中
+
+    +- demo/
+        |- world_re_day0.avi    日间 注目实验最终效果视频
+        |- world_re_day1.avi    日间 注目实验最终效果视频
+        |- world_re_day2.avi    日间 注目实验最终效果视频
+        |- world_re_night0.avi  夜间 注目实验最终效果视频
+        `- world_re_night1.avi  夜间 注目实验最终效果视频
+
+
+`demo` 子目录视频中选择/剪裁片段组成效果展示
+
 
 ### end
 > 追加 Slogan 为开始的结尾页
